@@ -1,0 +1,5 @@
+{
+  "mongodb-url" : "mongodb://localhost/dashboard",
+  "node-port" : 3000,
+  "domain" : "http://localhost:3000"
+}

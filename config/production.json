@@ -1,0 +1,5 @@
+{
+  "mongodb-url" : "mongodb://localhost:105/dashboard",
+  "node-port" : 3005,
+  "domain" : "https://fpaduano-vm.dev.corp.dropbox.com:85"
+}

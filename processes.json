@@ -1,0 +1,9 @@
+{
+  "apps" : [{
+    "name"        : "dashboard",
+    "script"      : "server/serverStart.js",
+    "env": {
+      "NODE_ENV": "production"
+    }
+  }]
+}

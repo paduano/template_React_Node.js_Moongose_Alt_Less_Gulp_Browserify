@@ -1,0 +1,9 @@
+{
+  "name": "dropbox-dashboard",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "d3": "^3.0.0",
+    "underscore": "~1.8.3",
+    "topojson": "~1.6.19"
+  }
+}
